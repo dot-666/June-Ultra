@@ -1,0 +1,29 @@
+{
+  "254792021944@s.whatsapp.net": {
+    "id": "254792021944@s.whatsapp.net",
+    "conversationTimestamp": 1774277160,
+    "archived": false,
+    "readOnly": false
+  },
+  "status@broadcast": {
+    "id": "status@broadcast",
+    "conversationTimestamp": 1774277196,
+    "unreadCount": 1,
+    "archived": false,
+    "readOnly": false
+  },
+  "254762673217@s.whatsapp.net": {
+    "id": "254762673217@s.whatsapp.net",
+    "conversationTimestamp": 1774277281,
+    "unreadCount": 1,
+    "archived": false,
+    "readOnly": false
+  },
+  "120363336659207331@g.us": {
+    "id": "120363336659207331@g.us",
+    "conversationTimestamp": 1774277219,
+    "unreadCount": 1,
+    "archived": false,
+    "readOnly": false
+  }
+}
